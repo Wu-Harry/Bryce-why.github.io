@@ -14,4 +14,4 @@
 
 - 🌱 I’m currently learning **Biostatistics** at PKU
 
-- 📫 How to reach me [**wuhanyu0820@pku.edu.cn](mailto:**wuhanyu0820@pku.edu.cn) or [**1903119428w@gmail.com**](mailto:1903119428w@gmail.com)
+- 📫 How to reach me [**wuhanyu0820@pku.edu.cn**](mailto:**wuhanyu0820@pku.edu.cn) or [**1903119428w@gmail.com**](mailto:1903119428w@gmail.com)
